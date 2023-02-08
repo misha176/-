@@ -1,0 +1,10 @@
+C:\git\Анішкевич Михайло\Paint\Сourse\bin\Debug\Сourse.exe.config
+C:\git\Анішкевич Михайло\Paint\Сourse\bin\Debug\Сourse.exe
+C:\git\Анішкевич Михайло\Paint\Сourse\bin\Debug\Сourse.pdb
+C:\git\Анішкевич Михайло\Paint\Сourse\obj\Debug\Сourse.csproj.AssemblyReference.cache
+C:\git\Анішкевич Михайло\Paint\Сourse\obj\Debug\Сourse.Form1.resources
+C:\git\Анішкевич Михайло\Paint\Сourse\obj\Debug\Сourse.Properties.Resources.resources
+C:\git\Анішкевич Михайло\Paint\Сourse\obj\Debug\Сourse.csproj.GenerateResource.cache
+C:\git\Анішкевич Михайло\Paint\Сourse\obj\Debug\Сourse.csproj.CoreCompileInputs.cache
+C:\git\Анішкевич Михайло\Paint\Сourse\obj\Debug\Сourse.exe
+C:\git\Анішкевич Михайло\Paint\Сourse\obj\Debug\Сourse.pdb
