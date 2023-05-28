@@ -1,0 +1,59 @@
+    do
+            {
+                start_x++;
+                col_pixel = bitmap.GetPixel(start_x, start_y);
+                if (col_pixel != c_pixel_start | start_x + 2 > bitmap.Width)
+                {
+                    run_x_p = false;
+                }
+                bitmap.SetPixel(start_x, start_y, Color.Red);
+            } while (run_x_p);
+            do
+            {
+                start_x--;
+                col_pixel = bitmap.GetPixel(start_x, start_y);
+                if (col_pixel != c_pixel_start | start_x - 2 < 0)
+                {
+                    run_x_m = false;
+                }
+                bitmap.SetPixel(start_x, start_y, Color.Red);
+
+            } while (run_x_m);
+            do
+            {
+                start_y++;
+                col_pixel = bitmap.GetPixel(start_x, start_y);
+                if (col_pixel != c_pixel_start | start_y + 2 > bitmap.Height)
+                {
+                    run_y_p = false;
+                }
+                bitmap.SetPixel(start_x, start_y, Color.Red);
+            } while (run_y_p);
+            do
+            {
+                start_y--;
+                col_pixel = bitmap.GetPixel(start_x, start_y);
+                if (col_pixel != c_pixel_start | start_y - 2 < 0)
+                {
+                    run_y_m = false;
+                }
+                bitmap.SetPixel(start_x, start_y, Color.Red);
+
+            } while (run_y_m);
+        /*int cof = 0;
+            bool run_x_p ;
+            bool run_x_m ;
+            bool run_y_p ;
+            bool run_y_m ;
+            do 
+            {
+                cof = 0;
+                run_x_p=x_plus(start_x, start_y);
+                run_x_m=x_minus(start_x, start_y);
+                run_y_p=y_plus(start_x, start_y);
+                run_y_m=y_minus(start_x, start_y);
+                if (run_x_p) { cof++; }
+                if (run_x_m) { cof++; }
+                if (run_y_p) { cof++; }
+                if (run_y_m) { cof++; }
+            } while (cof<3);*/

@@ -1,0 +1,10 @@
+C:\Users\Misha\source\repos\Course_2\Course_2\bin\Debug\Course_2.exe.config
+C:\Users\Misha\source\repos\Course_2\Course_2\bin\Debug\Course_2.exe
+C:\Users\Misha\source\repos\Course_2\Course_2\bin\Debug\Course_2.pdb
+C:\Users\Misha\source\repos\Course_2\Course_2\obj\Debug\Course_2.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\Course_2\Course_2\obj\Debug\Course_2.Form1.resources
+C:\Users\Misha\source\repos\Course_2\Course_2\obj\Debug\Course_2.Properties.Resources.resources
+C:\Users\Misha\source\repos\Course_2\Course_2\obj\Debug\Course_2.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\Course_2\Course_2\obj\Debug\Course_2.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\Course_2\Course_2\obj\Debug\Course_2.exe
+C:\Users\Misha\source\repos\Course_2\Course_2\obj\Debug\Course_2.pdb
