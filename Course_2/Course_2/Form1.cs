@@ -20,8 +20,8 @@ namespace Course_2
         List<Pixel> pixels=new List<Pixel>(1280*1960); 
         Color color_start;
         Color c_pixel_start;
-        static string file = @"C:\Users\Misha\source\repos\Course_2\Start_picture.png";
-        Bitmap bitmap = new Bitmap(file);
+        static string file = @"C:\git\Анішкевич Михайло\Paint\Course_2\Start_picture.png";
+        Bitmap bitmap = new Bitmap(@"C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\Bitmap1.bmp");
         private void all_Color_Click(object sender, EventArgs e)
         {
             color_start = ((Button)sender).BackColor;
