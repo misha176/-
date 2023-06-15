@@ -21,7 +21,7 @@ namespace Course_2
         Color color_start;
         Color c_pixel_start;
         static string file = @"C:\git\Анішкевич Михайло\Paint\Course_2\Start_picture.png";
-        Bitmap bitmap = new Bitmap(@"C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\Bitmap1.bmp");
+        Bitmap bitmap;
         private void all_Color_Click(object sender, EventArgs e)
         {
             color_start = ((Button)sender).BackColor;
