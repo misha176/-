@@ -18,3 +18,9 @@ C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\obj\Debug\Cours
 C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\obj\Debug\Course_2.csproj.CoreCompileInputs.cache
 C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\obj\Debug\Course_2.exe
 C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\obj\Debug\Course_2.pdb
+C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\bin\Debug\aa\Course_2.resources.dll
+C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\obj\Debug\Course_2.Form1.aa.resources
+C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\obj\Debug\aa\Course_2.resources.dll
+C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\bin\Debug\uk-UA\Course_2.resources.dll
+C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\obj\Debug\Course_2.Form1.uk-UA.resources
+C:\git\Анішкевич Михайло\Paint\Course_2\Course_2\obj\Debug\uk-UA\Course_2.resources.dll
